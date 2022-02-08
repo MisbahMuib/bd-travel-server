@@ -22,4 +22,4 @@ This a simple travel website built using local data to get data dynamically by f
 * Express.js
 * MongoDB
 
-[Server Repository](https://github.com/misbahmuib/bd-travel-client)
+[Client Repository](https://github.com/misbahmuib/bd-travel-client)
